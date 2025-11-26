@@ -1,0 +1,19 @@
+{
+  "username": "admin",
+  "password": "admin123",
+
+  "gmail_user": "sales@ventilengineering.com",
+  "email_app_password": "pltexdkpcalozpkg",
+
+  "sheet_id": "1hKMwlnN3GAE4dxVGvq2WHT2-Om9SJ3P91L8cxioAeoo",
+  "sheet_range": "RFQ TEST SHEET!A1:AG2000",
+
+  "mode": "relevant_only",
+
+  "test_mode": true,
+  "recipient_mode": "test",
+
+  "custom_recipients": [],
+
+  "gmail_mark_as_read": false
+}
