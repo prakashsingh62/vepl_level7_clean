@@ -1,0 +1,12 @@
+flask
+gunicorn
+
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+imaplib2
+beautifulsoup4
+email-validator
+requests
